@@ -111,7 +111,7 @@ while True:
                 transaksi()
             elif pilihan==3:
                 break
-    if pilihanmenuawal==2:
+    elif pilihanmenuawal==2:
         while True:
             pilihan=int(input(f'''\nSelamat Datang di Toko Berkah
         Daftar Menu:
@@ -134,5 +134,5 @@ while True:
                 hapusitem()
             elif pilihan==6:
                 break
-    if pilihanmenuawal==3:
+    elif pilihanmenuawal==3:
         break
