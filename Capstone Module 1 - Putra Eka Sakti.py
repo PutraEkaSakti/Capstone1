@@ -1,3 +1,4 @@
+#Putra Eka Sakti - JCDSOL-012 (A)
 #Penjualan barang di toko
 list_barang=[{'NamaItem':'Telur','UOM':'Tray','Stok':10,'Harga':10000},
 {'NamaItem':'Beras','UOM':'Kg','Stok':10,'Harga':13000},
